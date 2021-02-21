@@ -1,6 +1,7 @@
 # restaurant_app
 
 A new Flutter application.
+Same code can also be used for making ios application.
 
 ## Getting Started
 
